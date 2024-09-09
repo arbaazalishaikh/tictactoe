@@ -6,3 +6,7 @@ A simple and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. 
 - **Current Player Indicator**: Displays which player's turn it is.
 - **Game Reset**: Start a new game with the "New Game" button.
 - **Win/Draw Detection**: Alerts when a player wins or the game ends in a draw.
+## Technologies Used
+- **HTML**: Structure of the game.
+- **CSS**: Styling and layout, including responsive design.
+- **JavaScript**: Game logic and interaction.
